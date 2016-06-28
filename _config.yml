@@ -1,19 +1,19 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
+title: Tai
 email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+description: I'm Xue.
 baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+url: "http://atai.me"
+name: Xue XingTai
+job: Master of Physics
+location: Peking, China
+languages: Optical Information Science and Technology
+twitter_username: 
+github_username:  xuexingtai
+codepen_username:  
+email_address: 584800354@qq.com
 
 # Build settings
 markdown: kramdown
